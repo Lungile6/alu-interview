@@ -9,11 +9,11 @@ def pascal_triangle(x):
     Generate Pascal's triangle up to the specified number of rows.
 
     Parameters:
-    x (int): The number of rows in Pascal's triangle to generate. 
+    x (int): The number of rows in Pascal's triangle to generate.
              Must be a positive integer.
 
     Returns:
-    list: A list of lists, where each inner list represents a row 
+    list: A list of lists, where each inner list represents a row
            in Pascal's triangle.
     """
     # Check if the input is less than or equal to 0
